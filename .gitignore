@@ -2,3 +2,4 @@
 res/data/*.txt
 res/data/*.md
 res/storage
+*__pycache__
